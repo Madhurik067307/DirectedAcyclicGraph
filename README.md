@@ -46,3 +46,31 @@ Are there any unusual cases that aren't handled?
             Graph with one edge
 
             Cases not covered: Long Graphs
+
+
+Did you fully read and understand the problem requirements? 
+
+Answer: Yes, I have given my assumptions below.
+
+Did you write and run tests? 
+
+Answer: Yes, I have attached the testcases file.
+
+Did you check for edge cases? 
+
+Answer: I have checked for edgecases which I have think of.
+
+Did you fully consider performance? Efficiency? Scalability? 
+
+Answer: Yes, I have considered performance, effeciency and scability.
+
+Did you answer the questions at the bottom of the explanation? 
+
+Answer: Yes, I have.
+
+Are you prepared to discuss your work if you are asked to participate in the interview process? 
+
+Answer: Yes.
+
+If you have relied on Artificial Intelligence to generate code, USFWS will know in the interview. Please do NOT rely on AI\
+Answer: Sure.
